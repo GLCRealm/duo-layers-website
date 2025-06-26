@@ -60,7 +60,7 @@ Just open the `index.html` file in any modern web browser. No server required!
 
 ## 📸 Preview
 
-![Website Demo](f)
+![Website Demo](https://glcrealm.github.io/duo-layers-website/)
 > A studio-style layout with custom scrolling animations and cursor effects
 
 ---
