@@ -48,7 +48,7 @@ duo-layers-website/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/duo-layers-website.git
+git clone https://github.com/glceralm/duo-layers-website.git
 cd duo-layers-website
 ```
 
